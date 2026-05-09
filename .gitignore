@@ -1,0 +1,7 @@
+Beach_Data/
+*.exe
+*.dll
+*_BurstDebugInformation_DoNotShip/
+MonoBleedingEdge/
+D3D12/
+*.zip
