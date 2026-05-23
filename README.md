@@ -1,4 +1,4 @@
-"# Lifeguard-Simulation-Unity" 
+# Lifeguard-Simulation-Unity 
 
 ## Gameplay Video
 
